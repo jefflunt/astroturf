@@ -6,6 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "astroturf"
   spec.version       = Astroturf::VERSION
   spec.authors       = ["Jeff Lunt"]
+  spec.email         = ["jefflunt@gmail.com"]
   spec.summary       = "Exhaustive synthetic data generator for Rails and Ruby applications"
   spec.description   = "Astroturf generates combinatorial synthetic data graphs in memory from declarative YAML matrix specifications."
   spec.homepage      = "https://github.com/elabs/astroturf"
