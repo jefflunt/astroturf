@@ -1,6 +1,6 @@
 # Astroturf
 
-Exhaustive synthetic data generator for Rails and Ruby applications.
+Exhaustive synthetic data generator for Rails and Ruby applications. Part of the [MechaRuby](https://mecharuby.com/) suite of tools.
 
 > **AI can rewrite your application in minutes. Can your test suite prove that your data is still valid?**
 
@@ -181,6 +181,12 @@ ruby -Ilib -Itest test/generator_test.rb
 ruby -Ilib -Itest test/dataset_test.rb
 ruby -Ilib -Itest test/inflector_test.rb
 ```
+
+---
+
+## Ecosystem
+
+Astroturf is part of the [MechaRuby](https://mecharuby.com/) suite of tools designed to provide bulletproof foundations for modern Rails and Ruby development.
 
 ---
 
