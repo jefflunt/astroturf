@@ -2,6 +2,8 @@
 
 Exhaustive synthetic data generator for Rails and Ruby applications.
 
+> **AI can rewrite your application in minutes. Can your test suite prove that your data is still valid?**
+
 ---
 
 ## Why Astroturf?
