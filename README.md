@@ -10,7 +10,7 @@ Most test suites test only the happy path.
 
 Hand-written fixtures rot. Factory builders are slow and sample only a tiny fraction of valid states. When you undertake a large architectural overhaul or an automated AI-driven refactoring pass, hidden edge cases surface in production: an unhandled enum state, a `nil` middle name, an unexpected boolean combination, or a broken foreign key relationship.
 
-**Astroturf guarantees total coverage of your value and combination space.**
+**Astroturf aims for total coverage of your value and combination space.**
 
 You define the dimensions in a YAML file. Astroturf computes the Cartesian product across every attribute, wires relational foreign keys, generates deterministic labels, and produces in-memory datasets in milliseconds.
 
